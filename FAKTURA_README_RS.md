@@ -23,7 +23,6 @@ Ako je Excel fajlo otvoren, automatski se čuva kao `Zbir_Faktura_FIX_HHMMSS.xls
 
 | Skripta | Jezik | Izlazni fajl |
 |---------|-------|--------------|
-| `faktura.py` | Kineski | `发票汇总.xlsx` |
 | `fakturaen.py` | Engleski | `invoice_summary.xlsx` |
 | `fakturars.py` | Srpski | `Zbir_Faktura.xlsx` |
 
