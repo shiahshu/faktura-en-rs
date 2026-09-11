@@ -23,7 +23,6 @@ If the Excel file is already open, it is saved as `invoice_summary_FIX_HHMMSS.xl
 
 | Script | Language | Output File |
 |--------|----------|-------------|
-| `faktura.py` | Chinese | `发票汇总.xlsx` |
 | `fakturaen.py` | English | `invoice_summary.xlsx` |
 | `fakturars.py` | Serbian | `Zbir_Faktura.xlsx` |
 
